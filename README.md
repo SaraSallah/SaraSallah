@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-salah-8244b71a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-salah-8244b71a9/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sarasallahh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sarasallahh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sara-salah-8244b71a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-salah-8244b71a9/" height="30" width="40" /></a>
+<a href="https://fb.com/sarasallahh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sarasallahh/" height="30" width="40" /></a>
 <a href="https://discord.gg/Sara Salah#8032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sara Salah#8032" height="30" width="40" /></a>
 </p>
 
