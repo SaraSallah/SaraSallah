@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sara Salah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarasallah&label=Profile%20views&color=0e75b6&style=flat" alt="sarasallah" /> </p>
 
-
-- 🔭 I’m currently **studying at Faculty of Engineering, Helwan University**
-
 - 🌱 I’m currently learning **Mobile development as Android**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1jrY-aU8qtD7-oZ7v4eblzahzOpFilpsj](https://drive.google.com/drive/folders/1jrY-aU8qtD7-oZ7v4eblzahzOpFilpsj)
